@@ -82,7 +82,7 @@ Execution is my proof.
 ## 🛠️ Arsenal
 
 **Languages**  
-`Python` `C++` `JavaScript`  
+`Python` `C++` `JavaScript` `Html`
 
 **Security**  
 `Kali Linux` `Burp Suite` `Metasploit` `OWASP`  
@@ -126,10 +126,23 @@ I build what survives both.
 
 ---
 
-## 🌐 Contact Channel
+## 🌐 Connect With Me
 
-`https://www.linkedin.com/in/%E3%85%A4-%E3%85%A4-ab9868377/`  
-`https://www.instagram.com/shivam_pro_hi/`
+<p align="left">
+
+<a href="https://github.com/Shivam_pro-hacker" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/shivam_pro_hi/" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/%E3%85%A4-%E3%85%A4-ab9868377/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
