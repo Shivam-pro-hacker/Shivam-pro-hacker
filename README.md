@@ -1,7 +1,39 @@
 ## Hi there 👋
 
-# I don't break systems.
-# I outgrow them.
+## 🕶️ About Me
+
+I don't chase vulnerabilities.  
+I study why they exist.
+
+I move beyond tools and techniques into the architecture of systems —  
+where trust boundaries are drawn,  
+where assumptions fail,  
+and where security is either engineered… or imagined.
+
+My work is grounded in a simple principle:
+
+> Anything built by humans can be understood.  
+> Anything understood can be tested.  
+> Anything tested can be broken — or made unbreakable.
+
+I operate across the full security spectrum:
+
+- Offensive analysis to expose hidden failure paths  
+- Defensive engineering to eliminate them at root  
+- Intelligent automation to detect what humans miss  
+
+I am not interested in noise exploits or surface-level attacks.  
+I focus on structural weaknesses — authentication logic, trust chains, state flow, and system behavior under stress.
+
+Cybersecurity, for me, is not a domain.  
+It is a lens for understanding technology itself.
+
+I learn how systems collapse.  
+So I can build systems that don’t.
+
+Silence is my signature.  
+Precision is my method.  
+Security is my discipline.
 
 🧠 Cybersecurity Engineer | Ethical Hacker | Secure AI Builder  
 ⚡ Offensive Security • Defensive Architecture • Intelligent Systems  
@@ -78,8 +110,8 @@ Execution is my proof.
 
 ## 📊 GitHub Intelligence
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=tokyonight&hide_border=true)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=Shivam-pro-hacker&theme=tokyonight&hide_border=true)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shivam-pro-hacker&theme=tokyonight&hide_border=true)
 
 ---
 
@@ -97,8 +129,7 @@ I build what survives both.
 ## 🌐 Contact Channel
 
 `LinkedIn`  
-`Portfolio`  
-`Research / Collaboration`
+`instagram`
 
 ---
 
