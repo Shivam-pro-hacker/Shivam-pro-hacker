@@ -41,7 +41,7 @@ Execution is my proof.
 
 ## ███ RESEARCH SIGNATURE
 
-Field: Cybersecurity  and  Ethical Hacker
+Field: Cybersecurity  and  Ethical Hacker  
 Focus: Trust, Identity, and System Behavior  
 Target: Hidden Weakness in Architecture
 Method: Failure Analysis  
