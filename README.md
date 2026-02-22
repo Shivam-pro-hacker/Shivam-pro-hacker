@@ -39,17 +39,17 @@ Execution is my proof.
 
 ---
 
-## ███ IDENTITY
+## ███ RESEARCH SIGNATURE
 
-Role: Cybersecurity Engineer  &  Ethical Hacker  
-Domain: Offensive • Defensive • AI Security  
-Focus: Structural Weakness & Trust Failure  
-Method: Root-Cause Analysis  
-Environment: Kali Linux / Web Systems / AI  
-Status: Active  
+Field: Cybersecurity  and  Ethical Hacker
+Focus: Trust, Identity, and System Behavior  
+Target: Hidden Weakness in Architecture
+Method: Failure Analysis  
+Stack: Linux • Web • AI  
+Mode: Continuous Research  
 
-> I study system failure patterns  
-> to engineer resilience.
+> I analyze why systems break  
+> to help build them stronger
 
 ---
 
