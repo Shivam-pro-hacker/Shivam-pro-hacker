@@ -41,8 +41,7 @@ Execution is my proof.
 
 ## ███ IDENTITY
 
-Role: Cybersecurity Engineer  &  Ethical Hacker
-
+Role: Cybersecurity Engineer  &  Ethical Hacker  
 Domain: Offensive • Defensive • AI Security  
 Focus: Structural Weakness & Trust Failure  
 Method: Root-Cause Analysis  
