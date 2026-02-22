@@ -2,38 +2,20 @@
 
 ## 🕶️ About Me
 
-I don't chase vulnerabilities.  
+I don’t chase vulnerabilities.  
 I study why they exist.
 
-I move beyond tools and techniques into the architecture of systems —  
-where trust boundaries are drawn,  
-where assumptions fail,  
-and where security is either engineered… or imagined.
+I look past tools into system architecture —  
+trust boundaries, hidden assumptions, failure paths.
 
-My work is grounded in a simple principle:
+Anything built can be understood.  
+Anything understood can be broken — or made resilient.
 
-> Anything built by humans can be understood.  
-> Anything understood can be tested.  
-> Anything tested can be broken — or made unbreakable.
-
-I operate across the full security spectrum:
-
-- Offensive analysis to expose hidden failure paths  
-- Defensive engineering to eliminate them at root  
-- Intelligent automation to detect what humans miss  
-
-I am not interested in noise exploits or surface-level attacks.  
-I focus on structural weaknesses — authentication logic, trust chains, state flow, and system behavior under stress.
-
-Cybersecurity, for me, is not a domain.  
-It is a lens for understanding technology itself.
+I focus on structural weaknesses:  
+auth logic, trust chains, state flow.
 
 I learn how systems collapse.  
-So I can build systems that don’t.
-
-Silence is my signature.  
-Precision is my method.  
-Security is my discipline.
+So I can build what doesn’t.
 
 🧠 Cybersecurity Engineer | Ethical Hacker | Secure AI Builder  
 ⚡ Offensive Security • Defensive Architecture • Intelligent Systems  
@@ -57,25 +39,17 @@ Execution is my proof.
 
 ---
 
-## ⚔️ Core Domains
+## ███ IDENTITY
 
-🔴 Offensive Security  
-- Web Exploitation  
-- Authentication Bypass  
-- Vulnerability Analysis  
-- Attack Surface Mapping  
+Role: Cybersecurity Engineer  &  Ethical Hacker
+Domain: Offensive • Defensive • AI Security  
+Focus: Structural Weakness & Trust Failure  
+Method: Root-Cause Analysis  
+Environment: Kali Linux / Web Systems / AI  
+Status: Active  
 
-🔵 Defensive Security  
-- Secure Coding  
-- Threat Detection Systems  
-- SOC Automation  
-- AI Security Monitoring  
-
-🟣 AI + Security  
-- AI Vulnerability Detection  
-- Intelligent Log Analysis  
-- AI Code Auditor  
-- Secure ML Systems  
+> I study system failure patterns  
+> to engineer resilience.
 
 ---
 
