@@ -128,8 +128,8 @@ I build what survives both.
 
 ## 🌐 Contact Channel
 
-`LinkedIn`  
-`instagram`
+`https://www.linkedin.com/in/%E3%85%A4-%E3%85%A4-ab9868377/`  
+`https://www.instagram.com/shivam_pro_hi/`
 
 ---
 
