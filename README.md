@@ -1,4 +1,4 @@
-## Hi there 👋
+## ⚠️ Trust Is The First Vulnerability.
 
 ## 🕶️ About Me
 
@@ -126,11 +126,21 @@ I build what survives both.
 
 ---
 
+## ☠️ Ethos
+
+I am not interested in breaking things for spectacle.  
+Only in understanding them completely.
+
+Because complete understanding  
+is the only real form of control.
+
+---
+
 ## 🌐 Connect With Me
 
 <p align="left">
 
-<a href="https://github.com/Shivam_pro-hacker" target="_blank">
+<a href="https://github.com/Shivam-pro-hacker" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -146,6 +156,8 @@ I build what survives both.
 
 ---
 
+> I don't break system, i prove they were already broken.
+> I follow logic until security disappears.
 > The quieter I become, the more dangerous my knowledge grows.
 
 <!--
