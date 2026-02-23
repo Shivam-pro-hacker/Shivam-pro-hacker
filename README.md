@@ -84,8 +84,7 @@ Mode: Continuous Research
 
 ## 📊 GitHub Intelligence
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Shivam-pro-hacker&theme=tokyonight&hide_border=true)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shivam-pro-hacker&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Shivam-pro-hacker&theme=tokyonight&hide_border=true&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF)
 
 ---
 
