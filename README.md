@@ -59,7 +59,7 @@ Mode: Continuous Research
 `Python` `C++` `JavaScript` `Html`
 
 **Security**  
-`Kali Linux` `Burp Suite` `Metasploit` `OWASP`  
+`Kali Linux` `Burp Suite` `Metasploit` `Nmap` `OWASP`  
 
 **AI / ML**  
 `TensorFlow` `PyTorch` `Scikit-Learn`  
