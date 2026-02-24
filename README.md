@@ -49,7 +49,7 @@ Stack: Linux • Web • AI
 Mode: Continuous Research  
 
 > I analyze why systems break  
-> to help build them stronger.
+> to help build them stronger
 
 ---
 
@@ -84,7 +84,7 @@ Mode: Continuous Research
 
 ## 📊 GitHub Intelligence
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Shivam-pro-hacker&theme=tokyonight&hide_border=true&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF)
+![GitHub Streak](https://streak-stats.demolab.com?user=Shivam-pro-hacker&theme=tokyonight&hide_border=true)
 
 ---
 
