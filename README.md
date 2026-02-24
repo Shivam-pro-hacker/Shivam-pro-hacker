@@ -18,7 +18,7 @@ I learn how systems collapse.
 So I can build what doesn’t.
 
 🧠 Cybersecurity Engineer | Ethical Hacker | Secure AI Builder  
-⚡ Offensive Security • Defensive Architecture • Intelligent Systems  
+⚡ Offensive Security • Defensive Architecture • Intelligent Systems
 
 ---
 
@@ -49,7 +49,7 @@ Stack: Linux • Web • AI
 Mode: Continuous Research  
 
 > I analyze why systems break  
-> to help build them stronger
+> to help build them stronger.
 
 ---
 
