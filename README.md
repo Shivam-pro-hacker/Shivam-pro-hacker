@@ -34,7 +34,7 @@ My work lives at the intersection of:
 - AI-Driven Defense
 - Secure Software Architecture
 
-Silence is my signature.  
+Silence is my signature.   
 Execution is my proof.
 
 ---
