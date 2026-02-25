@@ -84,7 +84,7 @@ Mode: Continuous Research
 
 ## 📊 GitHub Intelligence
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Shivam-pro-hacker&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Shivam-pro-hacker&theme=tokyonight&hide_border=true&v=2)
 
 ---
 
