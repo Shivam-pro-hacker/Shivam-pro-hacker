@@ -1,4 +1,4 @@
-## ⚠️ Trust Is The First Vulnerability
+## ⚠️ Trust Is The First Vulnerability.
 
 ## 🕶️ About Me
 
