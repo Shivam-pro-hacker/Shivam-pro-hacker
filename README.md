@@ -39,7 +39,7 @@ Execution is my proof.
 
 ---
 
-## ███ RESEARCH SIGNATURE.
+## ███ RESEARCH SIGNATURE
 
 Field: Cybersecurity  and  Ethical Hacker  
 Focus: Trust, Identity, and System Behavior  
