@@ -55,20 +55,32 @@ Mode: Continuous Research
 
 ## 🛠️ Arsenal
 
-**Languages**  
-`Python` `C++` `JavaScript` `Html`
+### Languages
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00F0FF)
+![C++](https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=c%2B%2B&logoColor=00F0FF)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=00F0FF)
+![HTML](https://img.shields.io/badge/HTML-0D1117?style=for-the-badge&logo=html5&logoColor=00F0FF)
 
-**Security**  
-`Kali Linux` `Burp Suite` `Metasploit` `Nmap` `OWASP`  
+### Security
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-0D1117?style=for-the-badge&logo=kalilinux&logoColor=00F0FF)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-0D1117?style=for-the-badge&logo=burpsuite&logoColor=00F0FF)
+![Metasploit](https://img.shields.io/badge/Metasploit-0D1117?style=for-the-badge&logo=metasploit&logoColor=00F0FF)
+![Nmap](https://img.shields.io/badge/Nmap-0D1117?style=for-the-badge&logo=gnu-bash&logoColor=00F0FF)
+![OWASP](https://img.shields.io/badge/OWASP-0D1117?style=for-the-badge&logo=owasp&logoColor=00F0FF)
 
-**AI / ML**  
-`TensorFlow` `PyTorch` `Scikit-Learn`  
+### AI / ML
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0D1117?style=for-the-badge&logo=tensorflow&logoColor=00F0FF)
+![PyTorch](https://img.shields.io/badge/PyTorch-0D1117?style=for-the-badge&logo=pytorch&logoColor=00F0FF)
+![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-0D1117?style=for-the-badge&logo=scikitlearn&logoColor=00F0FF)
 
-**Development**  
-`Flask` `Streamlit` `Web Security`  
+### Development
+![Flask](https://img.shields.io/badge/Flask-0D1117?style=for-the-badge&logo=flask&logoColor=00F0FF)
+![Streamlit](https://img.shields.io/badge/Streamlit-0D1117?style=for-the-badge&logo=streamlit&logoColor=00F0FF)
+![Web Security](https://img.shields.io/badge/Web_Security-0D1117?style=for-the-badge&logo=hackaday&logoColor=00F0FF)
 
-**Systems**  
-`Linux` `Windows`  
+### Systems
+![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=00F0FF)
+![Windows](https://img.shields.io/badge/Windows-0D1117?style=for-the-badge&logo=windows&logoColor=00F0FF)  
 
 ---
 
