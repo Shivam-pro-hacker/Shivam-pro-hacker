@@ -86,11 +86,11 @@ Mode: Continuous Research
 
 ## 🧩 Active Operations
 
-- AI Vulnerability Scanner  
-- Secure Code Analyzer  
-- Mini SOC System  
-- AI Human-Text Converter Detection  
-- Authentication Attack Simulator  
+![AI Scanner](https://img.shields.io/badge/AI_Vulnerability_Scanner-0D1117?style=for-the-badge&logo=ai&logoColor=00F0FF)
+![Code Analyzer](https://img.shields.io/badge/Secure_Code_Analyzer-0D1117?style=for-the-badge&logo=code&logoColor=00F0FF)
+![Mini SOC](https://img.shields.io/badge/Mini_SOC_System-0D1117?style=for-the-badge&logo=shield&logoColor=00F0FF)
+![AI Text](https://img.shields.io/badge/AI_Text_Detection-0D1117?style=for-the-badge&logo=brain&logoColor=00F0FF)
+![Auth Sim](https://img.shields.io/badge/Auth_Attack_Simulator-0D1117?style=for-the-badge&logo=lock&logoColor=00F0FF)  
 
 ---
 
