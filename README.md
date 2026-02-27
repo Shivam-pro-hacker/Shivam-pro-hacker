@@ -41,12 +41,25 @@ Execution is my proof.
 
 ## ███ RESEARCH SIGNATURE
 
-Field: Cybersecurity  and  Ethical Hacker  
-Focus: Trust, Identity, and System Behavior  
-Target: Hidden Weakness in Architecture
-Method: Failure Analysis  
-Stack: Linux • Web • AI  
-Mode: Continuous Research  
+**Field**  
+![Field](https://img.shields.io/badge/Cybersecurity%20%26%20Ethical%20Hacker-0D1117?style=for-the-badge&logo=hackaday&logoColor=00F0FF)
+
+**Focus**  
+![Focus](https://img.shields.io/badge/Trust%20•%20Identity%20•%20System%20Behavior-0D1117?style=for-the-badge&logo=probot&logoColor=00F0FF)
+
+**Target**  
+![Target](https://img.shields.io/badge/Hidden%20Weakness%20in%20Architecture-0D1117?style=for-the-badge&logo=dependabot&logoColor=00F0FF)
+
+**Method**  
+![Method](https://img.shields.io/badge/Failure%20Analysis-0D1117?style=for-the-badge&logo=databricks&logoColor=00F0FF)
+
+**Stack**  
+![Stack](https://img.shields.io/badge/Linux%20•%20Web%20•%20AI-0D1117?style=for-the-badge&logo=linux&logoColor=00F0FF)
+
+**Mode**  
+![Mode](https://img.shields.io/badge/Continuous%20Research-0D1117?style=for-the-badge&logo=readthedocs&logoColor=00F0FF)
+
+---
 
 > I analyze why systems break  
 > to help build them stronger
