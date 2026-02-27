@@ -41,8 +41,7 @@ Execution is my proof.
 
 ## ███ RESEARCH SIGNATURE
 
-**Field**  
-![Field](https://img.shields.io/badge/Cybersecurity%20%26%20Ethical%20Hacker-0D1117?style=for-the-badge&logo=hackaday&logoColor=00F0FF)
+**Field** : ![Field](https://img.shields.io/badge/Cybersecurity%20%26%20Ethical%20Hacker-0D1117?style=for-the-badge&logo=hackaday&logoColor=00F0FF)
 
 **Focus**  
 ![Focus](https://img.shields.io/badge/Trust%20•%20Identity%20•%20System%20Behavior-0D1117?style=for-the-badge&logo=probot&logoColor=00F0FF)
