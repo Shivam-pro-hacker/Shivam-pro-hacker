@@ -108,6 +108,8 @@ Execution is my proof.
 
 ## ☠️ Philosophy
 
+![Philosophy](https://img.shields.io/badge/Security%20Philosophy-0D1117?style=for-the-badge&logo=ghost&logoColor=00F0FF)
+
 Secure systems are not built by developers.  
 They are built by those who know how to break them.  
 
