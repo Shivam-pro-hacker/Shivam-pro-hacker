@@ -56,13 +56,7 @@ Execution is my proof.
 ---
 
 > I analyze why systems break  
-> to help build them stronger
-
----
-
-> I analyze why systems break  
-> to help build them stronger
-
+> to help build them stronger 
 ---
 
 ## 🛠️ Arsenal
