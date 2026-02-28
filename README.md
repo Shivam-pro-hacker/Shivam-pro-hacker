@@ -127,7 +127,7 @@ I am not interested in breaking things for spectacle.
 Only in understanding them completely.  
 
 Because complete understanding  
-is the only real form of control..
+is the only real form of control.
 
 ---
 
