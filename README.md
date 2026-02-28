@@ -121,11 +121,13 @@ I build what survives both.
 
 ## ☠️ Ethos
 
+![Ethos](https://img.shields.io/badge/Adversarial%20Ethos-0D1117?style=for-the-badge&logo=ghost&logoColor=00F0FF)
+
 I am not interested in breaking things for spectacle.  
-Only in understanding them completely.
+Only in understanding them completely.  
 
 Because complete understanding  
-is the only real form of control.
+is the only real form of control..
 
 ---
 
