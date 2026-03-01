@@ -1,11 +1,32 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=46&duration=3200&pause=2000&color=00F0FF&center=true&vCenter=true&width=1100&lines=CYBERSECURITY+ENGINEERING&stroke=00F0FF&strokeWidth=2" />
-</p>
+  <!-- Gradient cyber lock badge -->
+  <svg width="54" height="54" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" style="vertical-align:middle;margin-right:10px">
+    <defs>
+      <linearGradient id="gradCyber" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#4F8CFF"/>
+        <stop offset="100%" stop-color="#D946EF"/>
+      </linearGradient>
+    </defs>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Cybersecurity%20Engineer-0D1117?style=for-the-badge&logo=shield&logoColor=00F0FF" />
-</p>
+    <!-- Shield -->
+    <path d="M32 4 L56 16 V32 C56 46 45 56 32 60 C19 56 8 46 8 32 V16 Z"
+          fill="url(#gradCyber)"/>
 
+    <!-- Lock body -->
+    <rect x="22" y="28" width="20" height="16" rx="4" fill="white"/>
+
+    <!-- Lock shackle -->
+    <path d="M26 28 V22 A6 6 0 0 1 38 22 V28"
+          fill="none" stroke="white" stroke-width="3"/>
+
+    <!-- Keyhole -->
+    <circle cx="32" cy="36" r="2" fill="url(#gradCyber)"/>
+    <rect x="31" y="36" width="2" height="6" fill="url(#gradCyber)"/>
+  </svg>
+
+  <!-- Typing title -->
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=46&duration=3200&pause=2000&color=00F0FF&center=true&vCenter=true&width=900&lines=CYBERSECURITY+ENGINEERING&stroke=00F0FF&strokeWidth=2" />
+</p>
 <p align="center">
   <img src="https://img.shields.io/badge/Adversarial%20Security-0D1117?style=for-the-badge&logo=ghost&logoColor=00F0FF" />
   <img src="https://img.shields.io/badge/Offensive%20%E2%80%A2%20Defensive%20%E2%80%A2%20AI-0D1117?style=for-the-badge&logo=probot&logoColor=00F0FF" />
