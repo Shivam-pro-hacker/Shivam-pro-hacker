@@ -1,36 +1,21 @@
 <p align="center">
-<table>
-<tr>
-<td align="center" width="70">
+  <img width="54" style="vertical-align:middle;margin-right:10px;"
+       src="data:image/svg+xml;utf8,
+       <svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'>
+         <defs>
+           <linearGradient id='g' x1='0%' y1='0%' x2='100%' y2='100%'>
+             <stop offset='0%' stop-color='%234F8CFF'/>
+             <stop offset='100%' stop-color='%23D946EF'/>
+           </linearGradient>
+         </defs>
+         <path d='M32 4 L56 16 V32 C56 46 45 56 32 60 C19 56 8 46 8 32 V16 Z' fill='url(%23g)'/>
+         <rect x='22' y='28' width='20' height='16' rx='4' fill='white'/>
+         <path d='M26 28 V22 A6 6 0 0 1 38 22 V28' fill='none' stroke='white' stroke-width='3'/>
+         <circle cx='32' cy='36' r='2' fill='url(%23g)'/>
+         <rect x='31' y='36' width='2' height='6' fill='url(%23g)'/>
+       </svg>" />
 
-<svg width="54" height="54" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="gradCyber" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#4F8CFF"/>
-      <stop offset="100%" stop-color="#D946EF"/>
-    </linearGradient>
-  </defs>
-
-  <path d="M32 4 L56 16 V32 C56 46 45 56 32 60 C19 56 8 46 8 32 V16 Z"
-        fill="url(#gradCyber)"/>
-
-  <rect x="22" y="28" width="20" height="16" rx="4" fill="white"/>
-
-  <path d="M26 28 V22 A6 6 0 0 1 38 22 V28"
-        fill="none" stroke="white" stroke-width="3"/>
-
-  <circle cx="32" cy="36" r="2" fill="url(#gradCyber)"/>
-  <rect x="31" y="36" width="2" height="6" fill="url(#gradCyber)"/>
-</svg>
-
-</td>
-<td align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=46&duration=3200&pause=2000&color=00F0FF&center=true&vCenter=true&width=850&lines=CYBERSECURITY+ENGINEERING&stroke=00F0FF&strokeWidth=2" />
-
-</td>
-</tr>
-</table>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=46&duration=3200&pause=2000&color=00F0FF&center=true&vCenter=true&width=900&lines=CYBERSECURITY+ENGINEERING&stroke=00F0FF&strokeWidth=2" />
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Adversarial%20Security-0D1117?style=for-the-badge&logo=ghost&logoColor=00F0FF" />
