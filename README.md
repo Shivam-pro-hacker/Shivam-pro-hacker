@@ -25,7 +25,7 @@ So I can build what doesn’t.
 ## 🕶️ Identity
 
 I operate where systems fail and security begins.  
-I study how things break — then design how they should never break again.  
+I study how things break — then design how they should never break again.   
 
 My work lives at the intersection of:
 
