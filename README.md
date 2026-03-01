@@ -1,6 +1,9 @@
 <p align="center">
+<table>
+<tr>
+<td align="center" width="70">
 
-<svg width="56" height="56" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" style="vertical-align:middle;margin-right:10px">
+<svg width="54" height="54" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="gradCyber" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#4F8CFF"/>
@@ -8,24 +11,26 @@
     </linearGradient>
   </defs>
 
-  <!-- Shield -->
   <path d="M32 4 L56 16 V32 C56 46 45 56 32 60 C19 56 8 46 8 32 V16 Z"
         fill="url(#gradCyber)"/>
 
-  <!-- Lock body -->
   <rect x="22" y="28" width="20" height="16" rx="4" fill="white"/>
 
-  <!-- Lock shackle -->
   <path d="M26 28 V22 A6 6 0 0 1 38 22 V28"
         fill="none" stroke="white" stroke-width="3"/>
 
-  <!-- Keyhole -->
   <circle cx="32" cy="36" r="2" fill="url(#gradCyber)"/>
   <rect x="31" y="36" width="2" height="6" fill="url(#gradCyber)"/>
 </svg>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=46&duration=3200&pause=2000&color=00F0FF&center=true&vCenter=true&width=900&lines=CYBERSECURITY+ENGINEERING&stroke=00F0FF&strokeWidth=2" />
+</td>
+<td align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=46&duration=3200&pause=2000&color=00F0FF&center=true&vCenter=true&width=850&lines=CYBERSECURITY+ENGINEERING&stroke=00F0FF&strokeWidth=2" />
+
+</td>
+</tr>
+</table>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Adversarial%20Security-0D1117?style=for-the-badge&logo=ghost&logoColor=00F0FF" />
