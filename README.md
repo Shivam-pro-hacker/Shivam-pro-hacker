@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=44&duration=3200&pause=2000&color=FF00FF&center=true&vCenter=true&width=1000&lines=CYBERSECURITY+ENGINEERING" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=46&duration=3200&pause=2000&color=00F0FF&center=true&vCenter=true&width=1100&lines=CYBERSECURITY+ENGINEERING&stroke=00F0FF&strokeWidth=2" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Cybersecurity%20Engineer-0D1117?style=for-the-badge&logo=shield&logoColor=00F0FF" />
 </p>
 
 <p align="center">
