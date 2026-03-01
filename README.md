@@ -1,5 +1,10 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=3500&pause=2000&color=00F0FF&center=true&vCenter=true&width=800&lines=Cybersecurity+Engineering" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3200&pause=2000&color=00F0FF&center=true&vCenter=true&width=900&lines=Cybersecurity+Engineering" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Adversarial%20Security-0D1117?style=for-the-badge&logo=ghost&logoColor=00F0FF" />
+  <img src="https://img.shields.io/badge/Offensive%20%E2%80%A2%20Defensive%20%E2%80%A2%20AI-0D1117?style=for-the-badge&logo=probot&logoColor=00F0FF" />
 </p>
 
 ## ⚠️ Trust Is The First Vulnerability.
