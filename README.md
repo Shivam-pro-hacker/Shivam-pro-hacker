@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=3500&pause=2000&color=00F0FF&center=true&vCenter=true&width=800&lines=Cybersecurity+Engineering" />
+</p>
+
 ## ⚠️ Trust Is The First Vulnerability.
 
 ## 🕶️ About Me
