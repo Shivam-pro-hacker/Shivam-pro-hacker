@@ -31,7 +31,7 @@ So I can build what doesn’t.
 
 ---
 
-## 🕶️ Identity
+## 🕶️ Identity 
 
 I operate where systems fail and security begins.  
 I study how things break — then design how they should never break again.   
