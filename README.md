@@ -8,7 +8,7 @@
 </p>
 
 ## ⚠️ Trust Is The First Vulnerability.
-
+ 
 ## 🕶️ About Me   
 
 I don’t chase vulnerabilities.  
