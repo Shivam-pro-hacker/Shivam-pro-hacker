@@ -30,7 +30,7 @@ So I can build what doesn’t.
 ⚡ Offensive Security • Defensive Architecture • Intelligent Systems
 
 ---
-
+ 
 ## 🕶️ Identity 
 
 I operate where systems fail and security begins.  
