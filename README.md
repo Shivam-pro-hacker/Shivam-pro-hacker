@@ -11,7 +11,7 @@
   
 ## 🕶️ About Me   
 
-I don’t chase vulnerabilities.  
+I don’t chase vulnerabilities.   
 I study why they exist.
 
 I look past tools into system architecture —  
