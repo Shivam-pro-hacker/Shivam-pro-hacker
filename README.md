@@ -23,7 +23,7 @@ Anything understood can be broken — or made resilient.
 I focus on structural weaknesses:  
 auth logic, trust chains, state flow.
  
-I learn how systems collapse.  
+I learn how systems collapse.   
 So I can build what doesn’t.
 
 🧠 Cybersecurity Engineer | Ethical Hacker | Secure AI Builder  
