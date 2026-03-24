@@ -26,7 +26,7 @@ auth logic, trust chains, state flow.
 I learn how systems collapse.   
 So I can build what doesn’t.
 
-🧠 Cybersecurity Engineer | Ethical Hacker | Secure AI Builder  
+🧠 Cybersecurity Engineer | Ethical Hacker | Secure AI Builder   
 ⚡ Offensive Security • Defensive Architecture • Intelligent Systems
 
 ---
