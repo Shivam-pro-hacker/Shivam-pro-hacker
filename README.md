@@ -14,7 +14,7 @@
 I don’t chase vulnerabilities.   
 I study why they exist.
 
-I look past tools into system architecture —  
+I look past tools into system architecture —   
 trust boundaries, hidden assumptions, failure paths.
 
 Anything built can be understood.  
