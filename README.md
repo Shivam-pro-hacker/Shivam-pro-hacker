@@ -9,7 +9,7 @@
 
 ## ⚠️ Trust Is The First Vulnerability.
   
-## 🕶️ About Me   
+## 🕶️ About Me    
 
 I don’t chase vulnerabilities.   
 I study why they exist.
