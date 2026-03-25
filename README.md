@@ -179,4 +179,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-https://tryhackme-badges.s3.amazonaws.com/ProShivam.png
+![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/ProShivam.png)
