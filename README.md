@@ -178,3 +178,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center">
+  <a href="https://tryhackme.com/p/ProShivam">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/ProShivam.png?raw=true" />
+  </a>
+</p>
