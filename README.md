@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=46&duration=3200&pause=2000&color=00F0FF&center=true&vCenter=true&width=1100&lines=CYBERSECURITY+ENGINEER&stroke=00F0FF&strokeWidth=2" />
 </p>
-
+ 
 <p align="center">
   <img src="https://img.shields.io/badge/Adversarial%20Security-0D1117?style=for-the-badge&logo=ghost&logoColor=00F0FF" />
   <img src="https://img.shields.io/badge/Offensive%20%E2%80%A2%20Defensive%20%E2%80%A2%20AI-0D1117?style=for-the-badge&logo=probot&logoColor=00F0FF" />
