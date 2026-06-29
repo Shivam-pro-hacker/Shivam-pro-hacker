@@ -77,12 +77,12 @@
 ## 📊 GitHub Intelligence
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Shivam-pro-hacker&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Shivam-pro-hacker&theme=radical&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Shivam-AtlasX&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Shivam-AtlasX&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shivam-pro-hacker&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shivam-AtlasX&theme=radical" />
 </p>
 
 ---
